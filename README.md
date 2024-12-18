@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishn_agupta" target="blank"><img src="https://img.shields.io/twitter/follow/krishn_agupta?logo=twitter&style=for-the-badge" alt="krishn_agupta" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-assignment-portfolio.vercel.app/](https://my-assignment-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://krishna-gupta.vercel.app/](https://krishna-gupta.vercel.app/)
 
 - 💬 Ask me about **React, NextJS and TypeScript**
 
