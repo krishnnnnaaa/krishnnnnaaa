@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Gupta</h1>
-<h3 align="center">A Self-taught Frontend developer from India</h3>
+<h3 align="center">A Self-taught Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/krishn_agupta" target="blank"><img src="https://img.shields.io/twitter/follow/krishn_agupta?logo=twitter&style=for-the-badge" alt="krishn_agupta" /></a> </p>
 
